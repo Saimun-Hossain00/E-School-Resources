@@ -1,3 +1,21 @@
-.orange-highlight{
-    color:orange;
+.header-area {
+    background-color: #f0fff0;
+    height: auto; 
+}
+.nav-img img{
+    width: 30%;
+}
+.nav-img {
+    width: 50%;
+}
+.nav-btn {
+    background-color: #25c92a;
+    border-radius: 100px;
+    padding: 0px 10px;
+}
+.btn-learn {
+    background-color: #4CAF50;
+    border-radius: 100px;
+    padding: 9px 30px;
+    border: none;
 }
