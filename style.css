@@ -9,12 +9,12 @@
     width: 50%;
 }
 .nav-btn {
-    background-color: #25c92a;
+    background-color:#4ecca3;
     border-radius: 100px;
     padding: 0px 10px;
 }
 .btn-learn {
-    background-color: #4CAF50;
+    background-color:#204051;
     border-radius: 100px;
     padding: 9px 30px;
     border: none;
@@ -31,20 +31,20 @@
 }
 .boxB {
     padding: 25px 30px;
-    background-color: #fbfff8;
-    box-shadow: 6px 6px 10px gainsboro;
+    background-color: #fbfffffa;
+   
 
 }
 .boxMark {
     padding: 25px 30px;
-    box-shadow: 6px 6px 10px gainsboro;
+    box-shadow: 6px 6px 10px rgb(201, 182, 182);
     background-color: #fbfff8;
 }
 .boxB img {
-    width: 50%;
+    width: 40%;
 }
 .boxMark img {
-    width: 50%;
+    width: 40%;
 }
 .boxMark h1 {
     font-size: 20px;
@@ -56,17 +56,18 @@
 
 
 .cardF img {
-    width: 10%;
+    width: 12%;
     height: auto;
 }
 .card {
-    padding: 10px;
+    padding: 25px;
     border: none;
     box-shadow: 5px 5px 10px gainsboro;
     border-radius: 10px;
+    font-weight: bold;
 }
 .btn-course {
-    background-color: #42bb46;
+    background-color: #8900f2;
     border-radius: 100px;
     padding: 7px 30px;
     border: none;
